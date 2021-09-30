@@ -321,6 +321,7 @@ header a {
 	text-decoration: none;
 
 }
+}
 
 @media screen and (max-width: 1199px) {
 	body {
@@ -344,6 +345,7 @@ header a {
 	
 	.footer-text {
         flex-wrap: wrap;
+    }
 
      .gallery1 {
 	display: flex;
@@ -549,4 +551,3 @@ body {
 	}
 
 }
-
